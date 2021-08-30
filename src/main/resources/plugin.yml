@@ -1,0 +1,11 @@
+name: MessagePlugin
+version: '${project.version}'
+main: me.jumpccy.messageplugin.MessagePlugin
+api-version: 1.17
+authors: [ jjump88 ]
+description: msg plugin
+commands:
+  msg:
+    description: send some shit
+    usage: /msg (player) (message)
+    aliases: w
