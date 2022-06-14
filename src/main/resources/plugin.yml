@@ -8,4 +8,4 @@ commands:
   msg:
     description: send some shit
     usage: /msg (player) (message)
-    aliases: w
+    aliases: [w, message]
