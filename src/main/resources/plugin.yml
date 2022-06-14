@@ -6,6 +6,6 @@ authors: [ jjump88 ]
 description: msg plugin
 commands:
   msg:
-    description: send some shit
+    description: send message to a player
     usage: /msg (player) (message)
     aliases: [w, message]
